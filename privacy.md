@@ -22,7 +22,9 @@ Backup data and Google user data are never sold, rented, or shared with third pa
 
 ## Data retention and deletion
 
-Backups remain in the owner's Google Drive until the owner deletes them. The owner can delete backup files or revoke the application's access at any time from the owner's Google Account permissions page.
+Backup retention follows the owner's automatic backup policy, which determines how long backups are kept and when older backups are removed.
+
+Revoking the application's access in the owner's Google Account permissions stops the application from accessing Google Drive, but it does not delete any backups already stored there. Deleting backups is done by the owner through Google Drive or the backup tools.
 
 ## Changes
 
