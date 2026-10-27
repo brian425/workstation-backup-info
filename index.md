@@ -16,6 +16,6 @@ This tool is for the owner's personal use only. It is not offered to other peopl
 
 ## Privacy
 
-See the privacy policy at privacy.html on this same site for details about Google Drive access and how backup data is handled.
+Read the [privacy policy](https://brian425.github.io/workstation-backup-info/privacy.html) for details about Google Drive access and how backup data is handled.
 
 This page is informational only. It contains no credentials, no backup data, and no private files.
